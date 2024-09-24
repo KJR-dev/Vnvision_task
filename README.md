@@ -31,17 +31,15 @@ Before running this project, ensure you have the following installed on your mac
 2.  Open the config.json file located in /src/config/.
 3.  Add the necessary database details (host, username, password, and database name) under the development object. Example:
 
-    {
-       
-       "development": {
-          
-                     "username":"your_db_username",
-                     "password": "your_db_password",
-                     "database": "todo",
-                     "host": "localhost",
-                     "dialect": "mysql"
-                     }
-                  }
+         
+            "development": {
+                        "username":"your_db_username",
+                        "password": "your_db_password",
+                        "database": "todo",
+                        "host": "localhost",
+                        "dialect": "mysql"
+                        }
+         
 
 ### Step 3: Refresh Database
 
