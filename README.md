@@ -1,10 +1,10 @@
 # Todo Project
 
-A task management system built with Node.js, Express, and MySQL.
+A TODO management system built with Node.js, Express, and MySQL.
 
 ## Description
 
-This project provides an API for managing tasks (todos). Users can create, update, delete, and filter tasks based on their status (e.g., completed, pending). The project is structured with Sequelize as the ORM for managing MySQL database operations.
+This project provides an API for managing TODO. Users can create, update, delete, and filter tasks based on their status (e.g., completed, pending). The project is structured with Sequelize as the ORM for managing MySQL database operations.
 
 ## Prerequisites
 
